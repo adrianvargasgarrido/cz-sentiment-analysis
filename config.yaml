@@ -40,14 +40,14 @@ training:
 
 # Evaluation
 evaluation:
-  model_path: "latest" # 20251113-224046 Path to the model to evaluate: 'latest' or specific checkpoint
+  model_path: "20251113-225730" # best run by negative recall; use 'latest' to switch back
   runs_base_dir: "models/runs"
   test_data_path: "data/processed/test.csv"
   batch_size: 8
 
 # --- Prediction Configuration ---
 prediction:
-  model_path: "latest"  # 20251113-224046 Path to the model to evaluate: 'latest' or specific checkpoint
+  model_path: "20251113-225730"  # best run by negative recall; use 'latest' to switch back
   runs_base_dir: "models/runs"
   input_file: "data/raw/prediction_comments.txt"
   batch_size: 8

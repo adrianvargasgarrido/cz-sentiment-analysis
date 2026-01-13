@@ -89,7 +89,7 @@ cz-sentiment-analysis/
 └── results/                   # Evaluation artifacts (ignored in git)
 ```
 
-## 3. Installation
+## 4. Installation
 
 1. **Clone the repository**
    ```bash
@@ -105,43 +105,42 @@ cz-sentiment-analysis/
    ```
 
 3. **Prepare Data & Models**
-   *Note: Data and base models are not included in this repository.*
-   - Place `labeled_comments.txt` and `prediction_comments.txt` in `data/raw/`.
-   - Place the unzipped ELECTRA model files in `models/base_electra/`.
+   - Labeled and prediction comment files are already in `data/raw/`.
+   - Ensure the ELECTRA base model files are present in `models/base_electra/`.
 
 ---
 
-## 4. Usage
+## 5. Usage
 
 The project includes a pipeline orchestrator in `scripts/run_pipeline.py`.
 
-**Run the full pipeline (Data Prep -> Train -> Evaluate -> Predict):**
+**Run the full pipeline (Prepare → Train → Evaluate → Predict → Analyze → Alert):**
 ```bash
-python scripts/run_pipeline.py --all
+python scripts/run_pipeline.py all
 ```
 
 **Run individual steps:**
 ```bash
 # 1. Prepare data
-python scripts/run_pipeline.py --step prepare
+python scripts/run_pipeline.py prepare
 
-# 2. Train model
-python scripts/run_pipeline.py --step train
+# 2. Train model (add overrides as needed, e.g. --epochs 4 --lr 1e-5)
+python scripts/run_pipeline.py train
 
-# Note: for a theoretical deep-dive into the training process (hyperparameters, 
+# Note: for a theoretical deep-dive into the training process (hyperparameters,
 # loss functions, etc.), see notebooks/00_training_methodology_walkthrough.ipynb
 
-# 3. Evaluate model (Generates Confusion Matrix & Class Reports)
-python scripts/run_pipeline.py --step evaluate
+# 3. Evaluate model (generates confusion matrix & class reports)
+python scripts/run_pipeline.py evaluate
 
 # 4. Predict on new data
-python scripts/run_pipeline.py --step predict
+python scripts/run_pipeline.py predict
 
-# 5. Analyze Predictions (Generates Distribution Plots & Uncertainty Reports)
-python scripts/05_analyze_predictions.py
+# 5. Analyze predictions (distribution charts, uncertainty reports)
+python scripts/run_pipeline.py analyze
 
-# 6. Check for Alerts (Generates Alert Summary & Status CSVs)
-python scripts/06_flag_negative_comments.py
+# 6. Check alert windows for sustained negatives
+python scripts/run_pipeline.py alert
 ```
 
 ## 6. Configuration
@@ -157,5 +156,18 @@ All parameters are managed in `config.yaml`.
 ## 7. Metrics & Evaluation Details
 
 - **Metric Focus:** We prioritize **Negative Recall** and **F1-Score**. High accuracy on neutral comments is less valuable than correctly catching distinct negative complaints.
+- **Best run (negative recall):** `20251113-225730` — Negative recall ≈ 0.77, F1 ≈ 0.56.
+- **Artifacts:**
+   - Confusion matrix: `assets/confusion_matrix_best.png`
+   - Classification report (visual): `assets/classification_report_best.png`
+
+> Note: The best run was picked intentionally for **negative recall**, accepting a modest drop in neutral performance. The end goal is an **alerting system**, so missing negatives is riskier than over-flagging neutrals.
+
+### Visual snapshots
+
+![Confusion matrix (best run)](assets/confusion_matrix_best.png)
+
+![Classification report (best run)](assets/classification_report_best.png)
+
 
 

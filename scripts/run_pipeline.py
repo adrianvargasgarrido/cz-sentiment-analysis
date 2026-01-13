@@ -29,7 +29,7 @@ def main():
     parser = argparse.ArgumentParser(description="Run the sentiment analysis pipeline.")
     parser.add_argument(
         "step",
-        choices=["prepare", "train", "evaluate", "predict", "all"],
+        choices=["prepare", "train", "evaluate", "predict", "analyze", "alert", "all"],
         help="The pipeline step to run."
     )
     parser.add_argument(
@@ -62,6 +62,8 @@ def main():
     train_script = SCRIPT_DIR / "02_train_model.py"
     evaluate_script = SCRIPT_DIR / "03_evaluate_model.py"
     predict_script = SCRIPT_DIR / "04_predict.py"
+    analyze_script = SCRIPT_DIR / "05_analyze_predictions.py"
+    alert_script = SCRIPT_DIR / "06_flag_negative_comments.py"
 
     if args.step in {"prepare", "all"}:
         run_script("prepare", prepare_script)
@@ -86,6 +88,12 @@ def main():
 
     if args.step in {"predict", "all"}:
         run_script("predict", predict_script)
+
+    if args.step in {"analyze", "all"}:
+        run_script("analyze", analyze_script)
+
+    if args.step in {"alert", "all"}:
+        run_script("alert", alert_script)
 
 if __name__ == "__main__":
     main()
