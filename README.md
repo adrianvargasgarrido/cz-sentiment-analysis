@@ -158,5 +158,4 @@ All parameters are managed in `config.yaml`.
 
 - **Metric Focus:** We prioritize **Negative Recall** and **F1-Score**. High accuracy on neutral comments is less valuable than correctly catching distinct negative complaints.
 
-### Performance Visuals
-Below is the confusion matrix from the latest model run, illustrating the model's performance across classes:
+
