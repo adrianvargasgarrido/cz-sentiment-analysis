@@ -9,10 +9,7 @@ __pycache__/
 venv/
 env/
 
-# Project Artifacts
 
-results/
 
 # Notebooks
 .ipynb_checkpoints/
-

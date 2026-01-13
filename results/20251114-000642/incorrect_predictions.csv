@@ -1,0 +1,237 @@
+text,label,true_label,predicted_label,true_label_name,predicted_label_name,predicted_confidence,true_label_confidence,confidence_interval_low,confidence_interval_high
+dneska jsem dostala balíček tabulku ale druhá už nepřišla přesto ře ji milka odeslal jak je to možnéééééééééééééé,0,0,1,Negative,Neutral,0.6982,0.1918,0.1918,0.6982
+to nejdůležitější chybí.hodnotu má tak dvě koruny : -)),0,0,1,Negative,Neutral,0.7344,0.1778,0.1778,0.7344
+"chtěla jsem se zeptat , už byly odeslány dárečkyy všem? já teda stále čekám =( na slíbené hrnečky",1,1,0,Neutral,Negative,0.498,0.4742,0.4742,0.498
+"ne , vaše otázka týkající se neomezeného volání tu stále je. tedy pokud nemáte na mysli jiný dotaz.",1,1,0,Neutral,Negative,0.5009,0.473,0.473,0.5009
+někdo bohužel na ty sms ma . <repeat> ale když jsem doma určitě nebudu psat z mobilu . <repeat> ale urcitě z internetu. : ),1,1,0,Neutral,Negative,0.5298,0.4401,0.4401,0.5298
+divný ve státní smutek,1,1,0,Neutral,Negative,0.6124,0.3571,0.3571,0.6124
+"děkuji , už jsem volal na operátora , ale kdyby ta možnost byla v sekci muj t-mobile bylo by to super pro zakazníky : -)",1,1,2,Neutral,Positive,0.543,0.3942,0.3942,0.543
+to by měl dostat každý fanoušek nějakou odměnu ne jen ten jubilejní . <repeat>,0,0,1,Negative,Neutral,0.491,0.4799,0.4799,0.491
+mám právě čerstvou zkušenost že to tak není . <repeat> alespoň v londýně,1,1,0,Neutral,Negative,0.5703,0.4006,0.4006,0.5703
+"a jsou i šetřiví , po vybrání dobrot se do hlavolamu i obléknou : -)",1,1,2,Neutral,Positive,0.7702,0.1861,0.1861,0.7702
+"aha , nechtějí se mi otevřít pravidla , tak nevím , že to skončilo.",1,1,0,Neutral,Negative,0.489,0.484,0.484,0.489
+zbytecnost,0,0,1,Negative,Neutral,0.5526,0.4106,0.4106,0.5526
+děkuji . <repeat>,1,1,2,Neutral,Positive,0.7882,0.1683,0.1683,0.7882
+"asi zapomněli připsat vzkaz ve stylu ""tady za 10 let zprovozníme signál , který už dnes mají v pákistánu"" . <repeat>",0,0,1,Negative,Neutral,0.5631,0.4032,0.4032,0.5631
+"to mě taky. jedinou smsku se mi podařilo odeslat v době , kdy mi na pouhou minutu naskočila brána a dotyčná čeká na druhou část smsky. marně.",0,0,1,Negative,Neutral,0.4914,0.4801,0.4801,0.4914
+"snad se odpovědi dočkám i já. včera tři cheese za 75 , -. no fuj velebnosti!",0,0,1,Negative,Neutral,0.6751,0.1185,0.2064,0.6751
+jaká bude kompenzace ? <repeat>,0,0,1,Negative,Neutral,0.7507,0.1763,0.1763,0.7507
+"panežo myslíte , že jím stojí za to tam dát o hambrugra míń ? <repeat> stjene z toho nic nemaj",1,1,0,Neutral,Negative,0.6237,0.34,0.34,0.6237
+já taky objednala jsem asi před měs.a taky nic a vše bylo správné,0,0,1,Negative,Neutral,0.5166,0.453,0.453,0.5166
+"nokia 5110 , ještě ji tu mám : -)",1,1,2,Neutral,Positive,0.5423,0.4002,0.4002,0.5423
+"ne , stále ta stejná jména",1,1,0,Neutral,Negative,0.49,0.4818,0.4818,0.49
+"k čemu je o2 záloha , když jsem měl všechny kontakty , které se mi pak sami bez mého zásahu ''smazali'' ve vašem serveru?",0,0,1,Negative,Neutral,0.5388,0.4312,0.4312,0.5388
+"to je hodně odvážný a hodně drzý , asi jo , radši suchý a faktický popisky.",1,1,0,Neutral,Negative,0.6434,0.3033,0.3033,0.6434
+"martin moškoř : jen pro ty ""neznalé věci"" připojení na den je za 25kč a fup 25mb.",1,1,0,Neutral,Negative,0.5623,0.4103,0.4103,0.5623
+"hroši , sloni , lední medvědi , vydry , lachtani , tučňáci : ))",1,1,2,Neutral,Positive,0.6388,0.3107,0.3107,0.6388
+i kdyby byl o litr levnější u vás tak ho tam nekoupím a jsem zákazník o2,0,0,1,Negative,Neutral,0.5664,0.403,0.403,0.5664
+už mám objednáno =),1,1,2,Neutral,Positive,0.5866,0.3596,0.3596,0.5866
+také děkuji : -) mě by stačila odpověd na email a samozřejmě strpení je jasné . <repeat> : -),2,2,1,Positive,Neutral,0.6674,0.2172,0.2172,0.6674
+"phill , máš to gramaticky úplně špatně ale tak neva : d",1,1,0,Neutral,Negative,0.588,0.3819,0.3819,0.588
+"tak mně se objeví skokan a tím to končí , vubec se nemužu dostat do aplikace.",0,0,1,Negative,Neutral,0.6441,0.318,0.318,0.6441
+jj presne kdyby byl takovej tak bych nevahal : -d,2,2,1,Positive,Neutral,0.7359,0.0924,0.1716,0.7359
+i zázraky se dějí : -d,2,2,1,Positive,Neutral,0.7296,0.1442,0.1442,0.7296
+to je vlastně fakt . <repeat>,1,1,0,Neutral,Negative,0.5519,0.4181,0.4181,0.5519
+"kukadla jak zrcadla : d jak by to na mě zamrkalo , hned mě to má na lopatě , mládě jedno : d",2,2,1,Positive,Neutral,0.5835,0.035,0.3815,0.5835
+zazil jsem dobra pecka,2,2,1,Positive,Neutral,0.5859,0.3224,0.3224,0.5859
+kureci hlavy ve strouhance s houskou - no chutovka : /,0,0,1,Negative,Neutral,0.6824,0.1302,0.1874,0.6824
+a to ještě nevíš že pokud kredit nevyčerpáš do 3 měsíců bude pozastaven do dalšího dobití ; ),0,0,1,Negative,Neutral,0.7001,0.253,0.253,0.7001
+"toto co je za nastup zimy , velmi , velmi trpim , asi sa zakuklim a do velkej noci nevyjdem z kukly von",1,1,0,Neutral,Negative,0.5959,0.3438,0.3438,0.5959
+"prosím pěkně , proč nefrčí web? chci změnit tarif a doufám , že jsem si in-kartu nepořizoval zbytečně. <url>",1,1,0,Neutral,Negative,0.6076,0.3626,0.3626,0.6076
+"neni to fotka z obchodu asi tezko by tam mohl byt parfem harem z lr , moc hezka skrinka!",1,1,2,Neutral,Positive,0.6638,0.2836,0.2836,0.6638
+"jste doopravdy skvela firma , velky vyber , rychle dodani zbozi . <repeat> zadna chyba . <repeat> dekuji . <repeat>",2,2,1,Positive,Neutral,0.4004,0.3761,0.3761,0.4004
+chudák kaplan : ),1,1,2,Neutral,Positive,0.6244,0.3214,0.3214,0.6244
+"pracuju , taky pilně : -))",1,1,2,Neutral,Positive,0.7886,0.1684,0.1684,0.7886
+tedy vám se to tam mboží : o)) no jo jaro : o),2,2,1,Positive,Neutral,0.4679,0.4657,0.4657,0.4679
+"také jsem je , bohužel , při žádné návštěvě zoo neviděla . <repeat>",0,0,1,Negative,Neutral,0.6868,0.2624,0.2624,0.6868
+"omg , je happy meal , pak je malé menu , pak je mcmenu . <repeat> stačí si přečíst pořádně menuboardy a chytrým lidem to docvakne . <repeat>",0,0,1,Negative,Neutral,0.6052,0.3201,0.3201,0.6052
+"tyjo . <repeat> to nasadili celkem slušný podmínky kvůli takový ""bblůstce"" . <repeat>",1,1,0,Neutral,Negative,0.6258,0.3106,0.3106,0.6258
+jsou nejrychlejší . <repeat> zkuste se zpozdit s platbou <d> d,0,0,2,Negative,Positive,0.4745,0.0751,0.4504,0.4745
+ať žije kofola bez ní by nebyl život.,2,2,1,Positive,Neutral,0.6424,0.2611,0.2611,0.6424
+"jen si hezky zabesídkujte , práce ještě bude habakuk : )",1,1,2,Neutral,Positive,0.7785,0.1796,0.1796,0.7785
+tak tohle žádný slogan nepotřebuje . <repeat> to bude fungovat samo . <repeat> : ddd,1,1,0,Neutral,Negative,0.5479,0.4188,0.4188,0.5479
+"no , čepovanou za třicet , to pěkně tedy děkuji!",0,0,2,Negative,Positive,0.7153,0.0444,0.2403,0.7153
+"zdravím , objeví se ve vaší nabídce i samsung galaxy note white? . <repeat> čili bílá verze tohoto úžasného multimediálního společníka? díky",1,1,2,Neutral,Positive,0.5048,0.4273,0.4273,0.5048
+úchvatný pohled na krále . <repeat>,1,1,2,Neutral,Positive,0.707,0.2301,0.2301,0.707
+a neplanujete tady nejakou soutez jako byla minuly rok?,1,1,0,Neutral,Negative,0.5143,0.4576,0.4576,0.5143
+bily zuby muzou byt i bez precitliveni . <repeat> takze rozhodne beleni zubu ! <repeat> : ),1,1,0,Neutral,Negative,0.4683,0.4682,0.4682,0.4683
+jde tam i zaplatit faktura za volání ? <repeat> a doufám že to není za poplatek ! <repeat> a proč není platba faktury i z bankomatu možná (kb),1,1,0,Neutral,Negative,0.5579,0.4146,0.4146,0.5579
+"ondřej šuhaj , já mám jen klávesnici na notebooku , nemám přídavnou a taky mi to nejde",1,1,0,Neutral,Negative,0.5246,0.4482,0.4482,0.5246
+"to oni tak automaticky dělají , ale můžeš se do 14ti dnů odvolat. já jsem si u nich teď taky zrušila smlouvu.",1,1,0,Neutral,Negative,0.504,0.4688,0.4688,0.504
+"me prisli take vyhry , ktere jsem zadala. je to fer hra. rekla bych , ze jedina!",2,2,1,Positive,Neutral,0.61,0.1539,0.236,0.61
+ani mně služba v beta-verzi nefunguje . <repeat>,0,0,1,Negative,Neutral,0.5647,0.3956,0.3956,0.5647
+"zatím ještě nikomu nic nedošlo a pochybuji , že se jim všechny zásilky vrátili zpět",0,0,1,Negative,Neutral,0.5376,0.4338,0.4338,0.5376
+slevy na fesťáky by nebyly k zahození.,1,1,0,Neutral,Negative,0.531,0.4383,0.4383,0.531
+"paráda.sice prý jakoýe spuštěno , ale do muj t mobile se neprihlasim . <repeat>",0,0,1,Negative,Neutral,0.3728,0.3586,0.3586,0.3728
+"luxusní reklama : d . <repeat> doufam , že dáte těm , , zdrhačům"" kamery na záda , abychom tu na netu viděli nějaký scénky : d",2,2,0,Positive,Negative,0.5791,0.0392,0.3818,0.5791
+"jůůůů , děkujeme , že jste nás vybrali do užšího výběru , 200 kč dobrých , ale navíc to už asi nedotáhneme , nevadí , i tak moc děkujeme <3",2,2,1,Positive,Neutral,0.5227,0.1399,0.3374,0.5227
+"tyhle poukazy jsem nikdy nepochopil. to už můžu dát dotyčnýmu radši tisícovku a nebude omezenej tím , kde si musí dárek koupit. : -)",0,0,1,Negative,Neutral,0.5344,0.434,0.434,0.5344
+"to : lůca tyrnerová ano , poslal jsem zpět samozdřejmně správnou odpověď a to ""žádný"". je pravda , že zatím žádná odezva.",1,1,0,Neutral,Negative,0.5772,0.394,0.394,0.5772
+"páni , tohle kdybych uměla! : -)",2,2,1,Positive,Neutral,0.6396,0.2635,0.2635,0.6396
+"tak na to , abych byla v prde*i snad slevomat nepotřebuju =)",0,0,1,Negative,Neutral,0.4893,0.4744,0.4744,0.4893
+"jo v německu to už sice je ale tady za 100 , - to asi moc nepůjde nebo že by byla cena zase 45 , -",1,1,0,Neutral,Negative,0.4947,0.476,0.476,0.4947
+"lidi pozor na fakturace , když vám spočítají jen poměrnou část za určitý počet dnů , a změní vám účtovací období. tak si to přepočítávejte.",1,1,0,Neutral,Negative,0.5083,0.4651,0.4651,0.5083
+navíc nyní již takové patálie odpadnou.,1,1,0,Neutral,Negative,0.5758,0.395,0.395,0.5758
+"nespokojen! proto tu taky jsem! ne z toho důvodu , abych byl označován jako spokojený : d",0,0,1,Negative,Neutral,0.5182,0.4471,0.4471,0.5182
+ano souhlasím dnes jdu do mcdonaldu a koupím si perlu ! <repeat>,1,1,2,Neutral,Positive,0.7105,0.2407,0.2407,0.7105
+nejedou vám webovky ? <repeat> v noci jsme se chtěly s kolegyní na něco podívat a vůbec jsme se tam nedostaly a teď taky ne . <repeat>,1,1,0,Neutral,Negative,0.5461,0.4243,0.4243,0.5461
+"barlog jakub pláteník . <repeat> : "" mám stejný nazor toe aji u fotky . <repeat> a nebo to ma jěn prázdne krabičky . <repeat>",1,1,0,Neutral,Negative,0.6217,0.3415,0.3415,0.6217
+"mám s3 z volného prodeje , a jb taky nemám. a ani mně to netrápí.",1,1,0,Neutral,Negative,0.5998,0.368,0.368,0.5998
+ani náhodou . <repeat>,0,0,1,Negative,Neutral,0.5725,0.3866,0.3866,0.5725
+"jo , ale vařit by jste si to chodily sami . <repeat> za dvacku . <repeat>",1,1,0,Neutral,Negative,0.5886,0.3763,0.3763,0.5886
+: d prý kvalitní : d,1,1,2,Neutral,Positive,0.7896,0.1676,0.1676,0.7896
+prosím o smazání příspěvku od wenca konopnik!,0,0,1,Negative,Neutral,0.6384,0.3261,0.3261,0.6384
+ááá vojta dělá žraloka . <repeat> : ddddddd,2,2,1,Positive,Neutral,0.6671,0.124,0.2089,0.6671
+"kočky , fuj já radši pejsky",1,1,0,Neutral,Negative,0.5322,0.4411,0.4411,0.5322
+"pravděpodobně některá z oponentních žen , co se jim nelíbí focení žirafy mne blokla , tudíž nemohu diskutovat",1,1,0,Neutral,Negative,0.5958,0.3768,0.3768,0.5958
+"clara - smoulinka uz nebude , byla prvni tyden a hned vyprodana! : )",1,1,2,Neutral,Positive,0.7153,0.2396,0.2396,0.7153
+. <repeat> protože hračka z happy mealu je základem šťastného vývoje dítěte . <repeat> zjevně.,0,0,1,Negative,Neutral,0.451,0.4015,0.4015,0.451
+právě v tuto chvíli signál naskočil.hurá ! <repeat>,2,2,0,Positive,Negative,0.5952,0.0376,0.3672,0.5952
+vychlazená nemá chybu,2,2,1,Positive,Neutral,0.5246,0.3933,0.3933,0.5246
+ahoj zvědavče .to je ale pěkná fotgrafka že ?,1,1,2,Neutral,Positive,0.6446,0.3032,0.3032,0.6446
+"my měli za to že je to poaprílový žertík , proč ten cz název ?",1,1,0,Neutral,Negative,0.5356,0.4371,0.4371,0.5356
+ale byl to super adrenalin i kdyz jsem borce ani nezahledl . <repeat>,2,2,0,Positive,Negative,0.569,0.0808,0.3502,0.569
+"lampárna je malá místnost na každém nádraží , kam se ukládají lampy . <repeat> tam se klidně můžete zeptat na cokoli a nikdo vám stejně neodpoví . <repeat>",1,1,0,Neutral,Negative,0.499,0.4707,0.4707,0.499
+pise mi to pozadovana stranka nebyla nalezena . <repeat> (fb v iphonu),1,1,0,Neutral,Negative,0.5611,0.4109,0.4109,0.5611
+"takže : samoobsluha funguje! teda mně , nevím , jak ostatním. děkuji.",2,2,1,Positive,Neutral,0.5981,0.0332,0.3687,0.5981
+mám všechny : ),1,1,2,Neutral,Positive,0.6952,0.2578,0.2578,0.6952
+pokud v tescu najdu novou kofolu tak skvělý . <repeat> pokud ne tak obyč : d,1,1,2,Neutral,Positive,0.7703,0.1864,0.1864,0.7703
+ja sem to mel take a je to docela male nato jak to vypada na obrazku a stoji 75kč lol,0,0,1,Negative,Neutral,0.6836,0.2033,0.2033,0.6836
+už aby to bylo poslední dobou to stojí zaprd,0,0,1,Negative,Neutral,0.7183,0.2113,0.2113,0.7183
+"volal jsem kolegyni taky na t-mobile z jineho tel a jí sem se dovolal , tak to asi nebude úplně plošné",1,1,0,Neutral,Negative,0.5183,0.4527,0.4527,0.5183
+a co zkusit baterku vyndat. dat tu do mobilu znova. a nebo nejlepsi je dat telefon nabyt,1,1,0,Neutral,Negative,0.5003,0.4717,0.4717,0.5003
+dobrý večer klikam jak blazen 2 hodiny a nic,0,0,1,Negative,Neutral,0.5073,0.4632,0.4632,0.5073
+rozdávám radost . <repeat>,1,1,2,Neutral,Positive,0.8081,0.1444,0.1444,0.8081
+to je opravdu vybornej vysmech : -) chces zpet sve penize? zaplat : -),0,0,1,Negative,Neutral,0.6826,0.167,0.167,0.6826
+to radši dělaj mrtvý ani neodepíšou ; ),0,0,1,Negative,Neutral,0.5923,0.3697,0.3697,0.5923
+"jo leda bez lidi podel steny , jinak je to leda na hromadne cvachtani.",1,1,0,Neutral,Negative,0.5927,0.369,0.369,0.5927
+"hm , zajímavé . <repeat> dostanu se mezi prvních 10 a stejně pak třeba ani nemusím vyhrát nebot nebudu vylosovaná . <repeat> tak to asi nemá cenu : -d",0,0,1,Negative,Neutral,0.7052,0.2128,0.2128,0.7052
+halllloooooooo mcdonald's česká republika odpovíte daj se sundat ty náramky dole nebo je protože pokud ne tak je to zbytečnost,1,1,0,Neutral,Negative,0.5513,0.4155,0.4155,0.5513
+to je aspoň upřímnost . <repeat>,1,1,0,Neutral,Negative,0.5807,0.3871,0.3871,0.5807
+nikdy nedostaneš v mc donald to co je na obrázku . <repeat> vždycky jen to co ten obrázek vzdááááááleně připomíná . <repeat> mc shit!,0,0,1,Negative,Neutral,0.5394,0.3714,0.3714,0.5394
+my je třeba v budějovicích už vís jak týden nedáváme . <repeat>,1,1,0,Neutral,Negative,0.5393,0.4329,0.4329,0.5393
+ono často na ceně tolik nezáleží a levnější výrobky jsou kvalitnější.,1,1,0,Neutral,Negative,0.5903,0.3763,0.3763,0.5903
+"již minulý týden jsem se stavoval , good idea : )",2,2,1,Positive,Neutral,0.5413,0.3878,0.3878,0.5413
+prostě a jednoduše je to pecka. krk přítele je tímto parfemem uz brutálně nasakly. lepší neznámé : -p,2,2,0,Positive,Negative,0.6092,0.062,0.3289,0.6092
+děkuji za odpověď,1,1,2,Neutral,Positive,0.8001,0.1515,0.1515,0.8001
+selfe tohle je moc ženuška kámo : ),1,1,2,Neutral,Positive,0.8081,0.1469,0.1469,0.8081
+"uvědomte si , že ti pouliční kejlíři si tím také vydělávají , takže to logicky není nikterak výhodné : )",1,1,0,Neutral,Negative,0.4929,0.4632,0.4632,0.4929
+mohla byt aspon zadara,0,0,1,Negative,Neutral,0.7442,0.1895,0.1895,0.7442
+nesnáším když dojdu do hospody a oni mi oznámí že nemají kofolu,0,0,1,Negative,Neutral,0.5051,0.4663,0.4663,0.5051
+v reálu to vypadá poněkud jinak no : -d,0,0,1,Negative,Neutral,0.5754,0.3882,0.3882,0.5754
+40 minut a 100sms za 180kč. víc toho není ?,0,0,1,Negative,Neutral,0.7044,0.2459,0.2459,0.7044
+já ty kulatý,1,1,2,Neutral,Positive,0.4885,0.4483,0.4483,0.4885
+"naprosto boží : o) tak mě napadá , že v kindervajíčkách už bylo lecjaký zvířátko , ale kolekce medojedů ještě ne : o)",2,2,1,Positive,Neutral,0.6247,0.0702,0.3051,0.6247
+laskavě si to papouškování strčte někam!,0,0,1,Negative,Neutral,0.7119,0.1895,0.1895,0.7119
+brzo se přijedu podívat,1,1,2,Neutral,Positive,0.5836,0.3625,0.3625,0.5836
+pokušeni ! <repeat>,1,1,0,Neutral,Negative,0.4883,0.4653,0.4653,0.4883
+"jj , taky mame s o2 sve ""prijemne"" zkusenosti. a vrcholem jsou velmi ""milí a ochotni"" zamestnanci!",0,0,2,Negative,Positive,0.7989,0.0537,0.1474,0.7989
+koupil jsem si tam to co tady nabizej a je to sladke a neprilis dobre.,0,0,2,Negative,Positive,0.7816,0.0491,0.1693,0.7816
+"mno , brečení na stránkách fb zase je veřejné - tzn. to narozdíl od mailu kamsi nelze úplně ignorovat . <repeat>",1,1,0,Neutral,Negative,0.6563,0.3074,0.3074,0.6563
+"neasi .na netu se dá novej sehnat v různých e-shopech za 4100 , - : d a o2 nabízí v zákl ceně za skoro 7000 : d . <repeat> a to se vyplatí : )))",0,0,1,Negative,Neutral,0.7362,0.1391,0.1391,0.7362
+"nedávno nedokázal jejich expert najít v menu androidu přístupové body internetu , musel jsem mu je najít sám.",0,0,1,Negative,Neutral,0.6723,0.285,0.285,0.6723
+"jako obvykle jsem u vytržení z copywritingu. pane hvozdecký , vy byste měl psát krátké stati na cvičná témata každý den , deal nedeal!",1,1,0,Neutral,Negative,0.5225,0.4435,0.4435,0.5225
+tak děkuju . <repeat>,1,1,2,Neutral,Positive,0.8002,0.1545,0.1545,0.8002
+"to jem rád , ale budu ještě radši , když operátoři srovnají ceny a budou si doopravdy konkurovat : )",0,0,2,Negative,Positive,0.5025,0.0649,0.4326,0.5025
+"neotravujte s darčekama když je zaři , na to je ještě spouste času : -)))",0,0,1,Negative,Neutral,0.73,0.1395,0.1395,0.73
+"dobrý den , a nějakou soutěž o něco menšího neplánujete ? <repeat> něco kde bude mít šanci i víc lidí s méně přáteli ? <repeat>",1,1,0,Neutral,Negative,0.5366,0.4361,0.4361,0.5366
+"stopovala směr mnichov , večer jsem jí zahlédl ! <repeat> nechybí vám tam taky medvěd? ten totiž stopoval s ní ! <repeat> láska je láska",1,1,0,Neutral,Negative,0.493,0.4524,0.4524,0.493
+jestli jsem před chvílí dostala bodíky pro školku od vás tak mooc děkuji .,2,2,1,Positive,Neutral,0.526,0.3968,0.3968,0.526
+obrázeček pls : -),1,1,2,Neutral,Positive,0.5311,0.4109,0.4109,0.5311
+jo skoro taky jinak vám už vezou auta dnes jsem viděl v ostravě kamion a na korbě měl tak 7 aut od společnosti kofola to byl krásný pohled,2,2,1,Positive,Neutral,0.7191,0.1334,0.1475,0.7191
+půl kila zeleninového salátu za poloviční cenu toho vašeho s jedním kouskme rajčete : d,0,0,1,Negative,Neutral,0.7176,0.2263,0.2263,0.7176
+"jé , to mám kousek",2,2,1,Positive,Neutral,0.5509,0.3753,0.3753,0.5509
+ja prosííím,1,1,2,Neutral,Positive,0.7809,0.1738,0.1738,0.7809
+to bude asi jedina možnost. díky za info a pěkný den.,1,1,2,Neutral,Positive,0.805,0.1499,0.1499,0.805
+"jj , dobré je máte , sice jsem to jedl studené , protože byly nestíhačky , ale good : d : d : d",2,2,1,Positive,Neutral,0.6924,0.1163,0.1913,0.6924
+každopádně má ode dneška vodafone co žehlit . <repeat>,0,0,1,Negative,Neutral,0.5105,0.4572,0.4572,0.5105
+nejde mi o mobilní net . <repeat> já chci levné volání a to je se slevou 75 % . <repeat>,1,1,0,Neutral,Negative,0.5766,0.3918,0.3918,0.5766
+"kristýna floková : než něco vypustíš , tak si to ověř ; -)",0,0,1,Negative,Neutral,0.7336,0.1254,0.1411,0.7336
+"jak ste to dokázala ? mě to prostě hlásí , že se spojení nepodařilo ani za těch 19 kč . <repeat>",1,1,0,Neutral,Negative,0.5613,0.4112,0.4112,0.5613
+za to nemůžu že mě baví chodit do kina,1,1,0,Neutral,Negative,0.5303,0.4419,0.4419,0.5303
+dobre dekuji ja stejně odcházím po dlouhych letech : ) cekam na o2 simku : ),1,1,2,Neutral,Positive,0.7541,0.2021,0.2021,0.7541
+jedinej vynález od komoušu co se jim fakt poved,2,2,1,Positive,Neutral,0.7063,0.0526,0.2411,0.7063
+: d : d : d : d a zrovna v sobotu se urcite stavím . <repeat> : d,1,1,2,Neutral,Positive,0.6028,0.3411,0.3411,0.6028
+naše kofolácká rodinka : d . <repeat> v jinolicích : ),1,1,2,Neutral,Positive,0.6703,0.2822,0.2822,0.6703
+"no dyť - prádlo nikam neuteče - tihle nevypadají taky že by utekli , ale mohli by! : -)",1,1,0,Neutral,Negative,0.5355,0.4326,0.4326,0.5355
+voní pěkně? je to svěží vůně?,1,1,2,Neutral,Positive,0.7478,0.2029,0.2029,0.7478
+marku málo málo jelikož jsem kody vyhazovala tak mam asi 15 bodíku,1,1,0,Neutral,Negative,0.5078,0.4637,0.4637,0.5078
+a mi osobně jste na twitteru odpověděli za 3 dny a na fb ještě kamarád čeká - musel se připomínat v komentářích pod statusem,0,0,1,Negative,Neutral,0.5105,0.4601,0.4601,0.5105
+"je nám líto , ale momentálně nemůžeme vyřešit váš požadavek. služba je dočasně nedostupná , prosíme opakujte akci později. kód chyby : g 502",1,1,0,Neutral,Negative,0.5317,0.4416,0.4416,0.5317
+4tý den a pořád žádná odpověď od vás,0,0,1,Negative,Neutral,0.5143,0.4566,0.4566,0.5143
+dobry dem mam dotaz chtela jsem si nastavit internet v mobilu a nejak mi to nejde,1,1,0,Neutral,Negative,0.6358,0.3282,0.3282,0.6358
+"matěj : joo , svět je krutej",1,1,0,Neutral,Negative,0.6113,0.354,0.354,0.6113
+no a ještě jsou fidorky od milky. v rakousku jsme je kupovali (s minies a dalšími novinkami) už v létě 2010.,1,1,2,Neutral,Positive,0.7501,0.2034,0.2034,0.7501
+"to je skvely , to se uz muzu prihlasit na brigadu!",1,1,2,Neutral,Positive,0.7833,0.1726,0.1726,0.7833
+kačenka kačenková nováková : já musím být vostrá když lžou,0,0,1,Negative,Neutral,0.5215,0.4268,0.4268,0.5215
+ježiš to jsou kydy . <repeat>,0,0,2,Negative,Positive,0.6128,0.0639,0.3233,0.6128
+furt nemate žadny informace nebo jste zapoměli ? <repeat>,1,1,0,Neutral,Negative,0.6359,0.3336,0.3336,0.6359
+dávám si . <repeat> ale z petky . <repeat> : ( čep je nej : ),1,1,2,Neutral,Positive,0.7753,0.1816,0.1816,0.7753
+nechtěl bych,0,0,1,Negative,Neutral,0.7358,0.1798,0.1798,0.7358
+kdyby ta fotka alespoň po technické stránce za něco stála . <repeat>,0,0,1,Negative,Neutral,0.4819,0.4676,0.4676,0.4819
+da se nahrat i přes 50 000 ale pak už je to podvod,1,1,0,Neutral,Negative,0.6373,0.3322,0.3322,0.6373
+"už ti tady někdo odepisoval , že to je uplně jedno . <repeat>",1,1,0,Neutral,Negative,0.6159,0.3541,0.3541,0.6159
+přesně to se sem hodí . <repeat> never say no to panda . <repeat> a místo sýra kofola : d,1,1,2,Neutral,Positive,0.7128,0.2391,0.2391,0.7128
+štěpán chour : díky bohu jejich klientem nejsem ale snažil sem se zprovoznit jejich produkt pro někoho jiného.,0,0,1,Negative,Neutral,0.5251,0.4452,0.4452,0.5251
+"u xperie mám problém s dílenskím zpracováním plastů , které rádi praskají. takže po krátké úvaze co k vánocům se podívám na lepší : )",0,0,1,Negative,Neutral,0.5251,0.4329,0.4329,0.5251
+no me se prave to volání hodí . <repeat> a sms do jiných sítí mám vyřešeno jinak : )),2,2,1,Positive,Neutral,0.6121,0.2943,0.2943,0.6121
+stále sem se nedočkal odpovědi : ),0,0,1,Negative,Neutral,0.659,0.2915,0.2915,0.659
+bomba vůně na podzim,2,2,1,Positive,Neutral,0.4924,0.0414,0.4662,0.4924
+"a bude uz jenom hur. je potreba jeste zdrazit co zdrazit jde , pripadne prodlouzit uvazky na 5let a bude",0,0,1,Negative,Neutral,0.596,0.3621,0.3621,0.596
+tak lapají ptáčka . <repeat>,1,1,0,Neutral,Negative,0.5223,0.45,0.45,0.5223
+"ano , to je snadnější , když se nevyjádří sám pan ředitel bobek : ) lidé si vždy vybírají tu , pro ně nejschůdnější variantu : ( logicky : )",1,1,0,Neutral,Negative,0.543,0.4236,0.4236,0.543
+"příroda to se zvířátky pěkně zařídila.jaro , tedy nový život.",1,1,2,Neutral,Positive,0.5476,0.3787,0.3787,0.5476
+"některé rady mě fakt pobavily , ale do fronty se nepřidam : )))",1,1,2,Neutral,Positive,0.6567,0.2927,0.2927,0.6567
+"zrovna chci napsat . <repeat> neumím si představit toto do sebe cpát teď na snídani. au , můj žaludek . <repeat> : -)",0,0,1,Negative,Neutral,0.7078,0.1841,0.1841,0.7078
+"škoda že to neplatí i pro přerov , brno je troch z ruky , možná někdy příště",1,1,0,Neutral,Negative,0.5622,0.4109,0.4109,0.5622
+"taky jsem se nachytala : -) minuly mesic jsem platila skoro 2000 , - kvuli zmenam : -)",0,0,2,Negative,Positive,0.7401,0.0448,0.2151,0.7401
+"já mám od nich ted nový telefon za 1 kč k prodloužené smlouvě a neměl jsem s nimi nikdy problém , jak to děláte lidičky ? <repeat> : )",2,2,1,Positive,Neutral,0.681,0.0457,0.2734,0.681
+kdy opravíte ty sms z netu? už je to docela voser ; ),0,0,1,Negative,Neutral,0.7408,0.172,0.172,0.7408
+proč to vzdycky poserete tím masem? : d,0,0,1,Negative,Neutral,0.6828,0.2747,0.2747,0.6828
+"no zase je to hra pro někoho kdo má hodně přátel , sehnat jich 5 na jednu hru se mi zdá hodně takže se budou jména ve výhercích asi opakovat",1,1,0,Neutral,Negative,0.5137,0.4552,0.4552,0.5137
+já zezačatku nahrála taky neskutečný skore a žádná kompenzace : ) ale v poho jdem hrát dá l : ),1,1,2,Neutral,Positive,0.7656,0.1854,0.1854,0.7656
+"je mi lito , zkusenosti rikaji ze neváží.",0,0,2,Negative,Positive,0.7608,0.049,0.1902,0.7608
+přišel jsem 26. června v úterý . <repeat> jak je psáno na vašich stránkách . <repeat> a nic o.o,0,0,1,Negative,Neutral,0.6845,0.2709,0.2709,0.6845
+pěkne hnusnej : d,0,0,1,Negative,Neutral,0.4945,0.4051,0.4051,0.4945
+"opravdu? to mi spadl kámen ze srdce , snad to bude tak jak říkáte . <repeat> děkuji.",2,2,1,Positive,Neutral,0.5368,0.0348,0.4283,0.5368
+"facebookale nic , no : ) jen k vám nemůžu tak často! ale pěkná akcička to je!",1,1,2,Neutral,Positive,0.7189,0.231,0.231,0.7189
+"dorazili mi čepice a penály pro děti , dostanou je k mikuláši , tak douvám , že je nadchnou tak jako mě. m",2,2,1,Positive,Neutral,0.596,0.2926,0.2926,0.596
+to jsou špičáky!,1,1,2,Neutral,Positive,0.7795,0.1744,0.1744,0.7795
+to aby nám to nebylo líto,1,1,0,Neutral,Negative,0.5818,0.3884,0.3884,0.5818
+dobrej. již mi poradily jiní. myslím tím zákazniky o2. děkuji vám za opravdu rychlou reakci : ),2,2,1,Positive,Neutral,0.5101,0.4139,0.4139,0.5101
+jasiju taky koupím lepší je ta to čená kofola,1,1,2,Neutral,Positive,0.6716,0.2791,0.2791,0.6716
+"náš stálý zákazník , gratulujeme : -)",1,1,2,Neutral,Positive,0.7987,0.1575,0.1575,0.7987
+"o2 cz : děkuji , odesláno.",2,2,1,Positive,Neutral,0.669,0.2325,0.2325,0.669
+"no prý chyba , prý je to tahle : <url> je to o pár příspěvků níže . <repeat>",1,1,0,Neutral,Negative,0.6298,0.3363,0.3363,0.6298
+slevy jsou parádní. akorát by to chtělo více slev pro plzeň. a jinak jako sleva by byl dobrej taky třeba bazén - aquapalace praha třeba.,2,2,0,Positive,Negative,0.5352,0.0669,0.398,0.5352
+já ještě neochutnala tak nemůžu rozhodovat : (,1,1,0,Neutral,Negative,0.6399,0.3265,0.3265,0.6399
+na co tohle všechno? akorát pak ženská ve 25 vypadá na 40 protože jí to ničí pleť ; ),0,0,1,Negative,Neutral,0.6852,0.2667,0.2667,0.6852
+ve vejprtech (okres chomutov) už asi 6 hodin nemáme signál v mobilu.kam tuto skutečnost máme nahlásit.,0,0,1,Negative,Neutral,0.6286,0.3368,0.3368,0.6286
+tak je fakt ze ja ji využívam jen na vyučtovani většinou a co se týče smsek o sdosažení limitu mi chodej tak tezko rict,1,1,0,Neutral,Negative,0.5022,0.4576,0.4576,0.5022
+tak oni ti dosavadní 3 mezi sebe dalšího nechcu tak se snaží aby čtu dalšího odradila jako že jich už mnoho menších odpadla.,1,1,0,Neutral,Negative,0.6334,0.3327,0.3327,0.6334
+kubajs šindelář : : d já tě alespoň nazývám celým jménem : ) a nebuď drzý na jednom pískovišti jsme spolu bábovky nedělali,0,0,1,Negative,Neutral,0.6363,0.3051,0.3051,0.6363
+"gratuluji vitězi.sláva vítězům , čest poraženým . <repeat>",1,1,2,Neutral,Positive,0.8115,0.1405,0.1405,0.8115
+takhle mi dělat chutě . <repeat> dal bych si : d . <repeat>,2,2,1,Positive,Neutral,0.5342,0.3941,0.3941,0.5342
+"když já chci taky ponožky , ale jestli to není tím že jsem starej",1,1,0,Neutral,Negative,0.6225,0.3474,0.3474,0.6225
+tenhle telefon bych dal jedině dětem za trest.,0,0,1,Negative,Neutral,0.6063,0.3593,0.3593,0.6063
+"milá milko , za vaši komunikaci a dělání si prdel s lidí na vás z vysoka seru . <repeat>",0,0,1,Negative,Neutral,0.589,0.3085,0.3085,0.589
+pro dospělé to beru taky a venči žvížátka večer po zoo . <repeat> to by se mi taky líbilo . <repeat> : o),1,1,2,Neutral,Positive,0.706,0.2491,0.2491,0.706
+to sou prdelinky ty mrňousové : ),2,2,1,Positive,Neutral,0.5684,0.3533,0.3533,0.5684
+bez ní nejsou vánoce . <repeat> : -d,2,2,1,Positive,Neutral,0.6327,0.2825,0.2825,0.6327
+už se těšim na realizaci : -),2,2,1,Positive,Neutral,0.4973,0.4334,0.4334,0.4973
+co za kretena mohlo todle napsat? : ),0,0,1,Negative,Neutral,0.7443,0.1885,0.1885,0.7443
+"ivo , budu se za vás modlit i coby ateista : d",1,1,2,Neutral,Positive,0.6985,0.2551,0.2551,0.6985
+já tu ceduli chci k sobě do hospůdky kde ji seženu ? <repeat>,2,2,1,Positive,Neutral,0.7489,0.1063,0.1448,0.7489
+"nokia je na ho*no : ) poruchové , uplně každé",0,0,1,Negative,Neutral,0.5785,0.386,0.386,0.5785
+nejde načíst nic ! <repeat> prosím o radu co dělat ? <repeat>,0,0,1,Negative,Neutral,0.6404,0.3248,0.3248,0.6404
+"dle mě je krevetový wrap lepší než byl beef , ale můj názor je jasný - crispy je lepší : d",2,2,1,Positive,Neutral,0.6623,0.0807,0.257,0.6623
+škoad že se to nedá poslat poštou : d hned bych si koupil 3 plata : ) : d,2,2,1,Positive,Neutral,0.7459,0.0832,0.1709,0.7459
+já bych zájem určitě měl - jestli ho ještě pořád máš tak se mi prosím ozvi : -),2,2,1,Positive,Neutral,0.721,0.1646,0.1646,0.721
+"zvládne to , určitě , palečky držím.",2,2,1,Positive,Neutral,0.7445,0.0989,0.1566,0.7445
+taky bych potřebovala,1,1,2,Neutral,Positive,0.4669,0.4668,0.4668,0.4669
+kuli 20ceti minutám takový halo. jste jak malý děcka co jim vzaly nejoblíbenější hračku.,0,0,2,Negative,Positive,0.5694,0.1046,0.326,0.5694
+tak tedka otázka jestli už vyleze a nebo se zas schová : -(,1,1,0,Neutral,Negative,0.6104,0.3595,0.3595,0.6104
+když mi nenačtou body tak nestihnu asi nic,0,0,1,Negative,Neutral,0.6598,0.302,0.302,0.6598
+"adrianko , a ty jsi dědičkou firmy , jinak bys tak neobhajovala neobhajitelné : )",0,0,1,Negative,Neutral,0.7281,0.2007,0.2007,0.7281
+"nechtěli by jste rozsviť a vyhraj dát rošku výherní pořadí na víctý pokus ? <repeat> takto berou všichni o pul noci , o pul paté už není nic",1,1,0,Neutral,Negative,0.5453,0.4271,0.4271,0.5453
+"docela frmol , ze? asi to nebude dlouho trvat",1,1,0,Neutral,Negative,0.5593,0.4129,0.4129,0.5593
