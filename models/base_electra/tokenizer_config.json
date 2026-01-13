@@ -1,0 +1,1 @@
+{"unk_token": "[UNK]", "sep_token": "[SEP]", "pad_token": "[PAD]", "cls_token": "[CLS]", "mask_token": "[MASK]", "do_lower_case": true, "strip_accents": false, "tokenize_chinese_chars": false}

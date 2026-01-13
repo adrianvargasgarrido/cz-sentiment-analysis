@@ -1,0 +1,59 @@
+# Project Configuration
+seed: 42
+
+# Data paths
+data:
+  raw_labeled_comments: "data/raw/labeled_comments.txt"
+  raw_prediction_comments: "data/raw/prediction_comments.txt"
+  train_data: "data/processed/train.csv"
+  val_data: "data/processed/val.csv"
+  test_data: "data/processed/test.csv"
+
+# Data split ratios
+prepare_data:
+  test_size: 0.2 # 20% for temp set (val+test)
+  val_size: 0.5  # 50% of temp set for val (10% of total)
+
+# Model paths
+model:
+  base_model_dir: "models/base_electra"
+  output_dir: "models"
+
+# Training parameters
+training:
+  epochs: 4
+  batch_size: 8
+  lr: 1.5e-5
+  warmup_ratio: 0.1
+  num_workers: 2
+  monitor_metric: "macro_f1" # 'accuracy', 'macro_f1', 'weighted_f1'
+  loss_function: "focal"  # 'cross_entropy' or 'focal'
+  focal_loss_gamma: 2.0
+
+  # --- Class Weighting ---
+  # 'none', 'balanced', 'custom'
+  class_weighting: "custom"
+
+  # Used if class_weighting is 'custom'. Order: [Negative, Neutral, Positive]
+  class_weights: [1.62, 0.62, 1.25]
+
+# Evaluation
+evaluation:
+  model_path: "latest"
+  runs_base_dir: "models/runs"
+  test_data_path: "data/processed/test.csv"
+  batch_size: 8
+
+# --- Prediction Configuration ---
+prediction:
+  model_path: "latest"
+  runs_base_dir: "models/runs"
+  input_file: "data/raw/prediction_comments.txt"
+  batch_size: 8
+
+# Alert thresholds
+prediction_alerts:
+  window_size: 100
+  negative_ratio_threshold: 0.30
+  min_negative_confidence: 0.55
+  require_full_window: true

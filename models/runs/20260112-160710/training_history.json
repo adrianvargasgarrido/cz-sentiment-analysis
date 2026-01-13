@@ -1,0 +1,41 @@
+{
+  "train_loss": [
+    0.5072666416338512
+  ],
+  "train_acc": [
+    0.5864532723635324
+  ],
+  "train_macro_f1": [
+    0.47913125752701946
+  ],
+  "val_loss": [
+    0.9004765581000935
+  ],
+  "val_acc": [
+    0.6377142857142857
+  ],
+  "val_macro_f1": [
+    0.47223741162803695
+  ],
+  "val_weighted_f1": [
+    0.5650550620300615
+  ],
+  "epoch_times": [
+    812.0746518330125
+  ],
+  "avg_batch_times": [
+    0.7863423389920167
+  ],
+  "monitor_metric": "macro_f1",
+  "loss_function": "focal",
+  "focal_loss_gamma": 2.0,
+  "class_weights": [
+    1.899999976158142,
+    1.0,
+    1.25
+  ],
+  "run_output_dir": "/Users/adrianvargas/Library/Mobile Documents/com~apple~CloudDocs/NN study case AI Engineer/cz-sentiment-analysis/models/runs/20260112-160710",
+  "use_weighted_sampler": false,
+  "best_metric_epoch": 1,
+  "best_metric_value": 0.47223741162803695
+}
