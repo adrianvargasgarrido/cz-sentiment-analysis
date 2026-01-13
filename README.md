@@ -1,4 +1,4 @@
-# Czech Facebook Sentiment – NN Case Study (AI Engineer)
+# Czech Facebook Sentiment 
 
 This project implements a sentiment classification model for Facebook comments written in Czech. The system automatically assesses whether each comment is **negative**, **positive**, or **neutral**, and supports **alerting** when the share of negative comments exceeds a given threshold.
 
@@ -160,9 +160,3 @@ All parameters are managed in `config.yaml`.
 
 ### Performance Visuals
 Below is the confusion matrix from the latest model run, illustrating the model's performance across classes:
-
-![Confusion Matrix](assets/confusion_matrix.png)
-
-- **Artifacts:**
-    - `results/<run_id>/evaluation/`: Confusion matrices and performance plots.
-    - `results/<run_id>/alerts/`: Human-readable `summary.md` and machine-readable `alert_status.json`.
