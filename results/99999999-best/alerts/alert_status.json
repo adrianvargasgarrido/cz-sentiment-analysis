@@ -1,0 +1,11 @@
+{
+  "window_size": 100,
+  "ratio_threshold": 0.3,
+  "min_confidence": 0.55,
+  "require_full_window": true,
+  "latest_window_size": 100,
+  "latest_negative_count": 20,
+  "latest_negative_ratio": 0.2,
+  "alert_active": false,
+  "total_flagged": 115
+}

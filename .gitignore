@@ -9,10 +9,6 @@ __pycache__/
 venv/
 env/
 
-# Project artifacts (keep repo lean)
-data/
-models/
-results/
 
 
 

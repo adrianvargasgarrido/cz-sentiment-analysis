@@ -1,0 +1,101 @@
+row_number,text,predicted_sentiment,confidence_negative,is_negative,neg_ratio
+901,nejlepší <3,Positive,0.040838707,0,0.2
+902,"Ano, co takhle podpora Windows Mobile / Phone ? Dříve to bylo normální a dnes vše jen pro hračky Apple a Android...",Negative,0.62041855,1,0.21
+903,nějaká lepší fotka...?,Negative,0.5864916,1,0.22
+904,"Děkuju, číslo objednávky je 180211179. Ráda bych si doobjednala Burberry Brit EdT 100 ml v testeru...",Positive,0.07189433,0,0.21
+905,Petr Klíma Mayerka Klimeš: evidentně jste tam nikdy nebyl :D byla to skvělá akce,Neutral,0.16272111,0,0.21
+906,a jak se vlastně dozvíme vyhodnocení?:) nebo jen ten dotyčný?:),Neutral,0.31667545,0,0.21
+907,Jak kdo má dnes volno :-) jinak kdo má tak si ho pěkně uzijte :-),Positive,0.09483999,0,0.21
+908,Jinak S3 best telefon doporučuju mám ho od O2 jsem spokojen !,Positive,0.04284736,0,0.2
+909,"no to je dobré, je 30 minut po půlnoci a výhry jsou už rozdané? to je zase soutěž :-(",Negative,0.6041172,1,0.21
+910,dočasně to nefunguje co vím já cca6 měsíců,Negative,0.54419917,0,0.21
+911,Bydlim v Řepnikach u Vysokeho Myta,Neutral,0.26385406,0,0.21
+912,KANČÍ guláš na Staroměstském náměstí? :-)),Neutral,0.23700328,0,0.2
+913,"No,není se čemu divit :-))",Positive,0.13116711,0,0.2
+914,já osobně si přes market stahuji zásadně věci co jsou zadarmo a ani nevím jak funguje ta aplikace vodafone,Negative,0.611042,1,0.21
+915,"Doletí daleko,jenom ne do Kalouskovy pokladničky!",Negative,0.49231654,0,0.21
+916,"chtěla jsem být nápaditá,ale prý polibek pod rozkvetlým kaktusem neplatí, tak zas uschnu:-)",Positive,0.05227215,0,0.21
+917,"a co třeba přistoupit přes přímé URL na SMS bránu? https://sms.client.tmo.cz/closed.jsp - jeden klik, jsem přihlášen a můžu posílat SMS",Negative,0.5131694,0,0.21
+918,"… nedám, sám mám málo … :)",Neutral,0.3674913,0,0.21
+919,Vejšku a skřivený pohled by to chtělo hlavně doplnit o odkaz nezapomenutelného neuznalého genia. :)),Positive,0.12101159,0,0.21
+920,"To je čuňaska, takhle se přežírat...:D",Neutral,0.44631186,0,0.21
+921,"Už jsem taky uvažoval, že jim napíšu ať mi pošlou administrátorské přístupy, že si to klidně spravím sám :D",Negative,0.4955227,0,0.2
+922,"věcná, věcná - nejni dneska úterý? :P",Negative,0.49981904,0,0.2
+923,"Dobrý den, od kdy budete mít Swiss kinga???díky",Neutral,0.27141225,0,0.2
+924,"Doufam, ze bude vic fotek ze krtu, nemuzu se na ne vynadivat :))",Neutral,0.41043046,0,0.2
+925,"Pěkné kočičky,",Positive,0.043206323,0,0.2
+926,mě se nejvíc líbila dchovka a countra bo to bylo fun,Positive,0.04317943,0,0.19
+927,kdo říká že si si neváží tvůrců filmu? On jen Podotkl že zlodějům nikdo platit nebude. Bestak to maj taky z uloztra :D,Negative,0.5985428,1,0.2
+928,"Prosím, potřebovala bych 2 body na čepici. Neměl by jste někdo je navíc? Bohužel mi 2 kódy nebyli uznány. Děkuju 1960879966",Neutral,0.45630556,0,0.19
+929,fakt je to ze nekteré ty vune voní užasně...nemusej stat 10000 aby hezky voněly,Positive,0.09888739,0,0.18
+930,Proč jste zrušily Chiken Roll? Ty Stripsy co ted máte je uplně něco jinýho :-(,Negative,0.6733219,1,0.18
+931,Všechno nejlepši Milko at si pořád tak dobrá jemná a tolik výběrů :D,Positive,0.04211805,0,0.18
+932,Hm Guru pomohla koukám. Chci to poslat PPLkou a také nějak nevím tu adresu.,Neutral,0.47344536,0,0.17
+933,Nádherná příroda!,Positive,0.043379076,0,0.17
+934,"Marek Staněk: to si opravdu myslíš, že takovéhle video někomu někde zavře dveře? Moc sleduješ televizi..",Negative,0.6404938,1,0.18
+935,rada bych neco vyhrala,Neutral,0.45438275,0,0.18
+936,"Já sice také ne, ale ráda bych se tam v budoucnu podívala.",Neutral,0.25197357,0,0.18
+937,děkuji za povšimnutí :-),Positive,0.04092882,0,0.18
+938,a kolik vám chybí?,Neutral,0.35197118,0,0.18
+939,Moc díky za odpovèd.,Positive,0.042297065,0,0.18
+940,miluji ji...,Positive,0.042700496,0,0.18
+941,tak šup s ní do telky :-),Positive,0.12508565,0,0.17
+942,fotka je opravdu smesna :D nebo spíš ten chees ve skutečnosti? :D :D,Neutral,0.43641388,0,0.16
+943,"Je pravda, že když vyfotím nějaký Váš bilboard do mobilu a ukáži na pokladně budu mít 1 vstup zdarma?",Negative,0.5289504,0,0.15
+944,"děkuji za nabídku,nevyplatí se mi pro ní jezdit,poněkud z ruky a výlet do nejbližšího místa min.4 hodiny",Neutral,0.21733463,0,0.15
+945,U Švejka Havlíčkův Brod,Neutral,0.32675102,0,0.15
+946,"GRATULUJEME ke krásné žirafce! :-* ......... čtu že prý asi klučina, to jsem zvědavá na jméno. :)",Positive,0.04134947,0,0.15
+947,všechno nejlepší,Positive,0.04125923,0,0.15
+948,Zabejvat se blbostma... to by vám šlo O2....,Negative,0.6732488,1,0.16
+949,"(a pokud nadřízený není také kompetentní, tak jeho nadřízený...pokud teda u vás v o2 má vůbec někdo k něčemu kompetence)",Negative,0.55924755,1,0.17
+950,Pohnojit kus záhona? Pouze trusem od slona :P,Neutral,0.4853207,0,0.17
+951,"Markét, nemáte prosím ještě 1 bodík navíc??",Neutral,0.44264916,0,0.17
+952,Mně se to narozdíl od brblalů líbí. :),Positive,0.040744666,0,0.17
+953,Abych se stavil zase pro McBox :-) aspoň je důvod tam jed :-),Neutral,0.38728043,0,0.17
+954,"A bude šéf gangu ještě někdy v Praze, nebo bude v některých městech vždy jenom jednou?",Neutral,0.45891207,0,0.17
+955,"ano už vím, ale předtím tam seznam nebyl :)",Neutral,0.41015765,0,0.17
+956,"Hezký večer, spustí se šťastná hodinka denně? (dneska třeba ještě nebyla :( )",Negative,0.5241993,0,0.17
+957,to maso u těch Bigburgrů lítá skoro ve vzduchu^^:D,Negative,0.6478765,1,0.18
+958,"a co třeba nějakej normální telefon pro ženský???? to jsou samý qwerty a dotykáče, ale ženský s nehtama maj smůlu :-@@",Negative,0.6565386,1,0.19
+959,"určitě Šárka Záhrobská, dole vedle pána s pejskem :-)))",Positive,0.047369204,0,0.19
+960,Lehká vůně na léto....super cena.:),Positive,0.041505482,0,0.18
+961,na čtvrtek uz si chystám fotak :-D,Neutral,0.19479373,0,0.18
+962,billa budějovická - hrnek za 3x 300g Milka nebo 5x sušenky,Neutral,0.40438515,0,0.17
+963,"červenej je doma, a je perfektní :-) a jak dobře se z něj pije ... příští týden jdu pro další ..:-)",Positive,0.04039321,0,0.17
+964,mňam hlavně oříšková :-),Positive,0.04083828,0,0.17
+965,No doufejme že s nimi ČTÚ zatočí a nebo případný 4. operátor,Negative,0.5699425,1,0.18
+966,"Tam nejde o to tloustnutí, ale o tu chuť třeba cheesa :)))♥",Neutral,0.35237527,0,0.18
+967,Kdy jedem?,Neutral,0.3024648,0,0.18
+968,Tak zkuste tohle udělat na zaměstnance v nově otevřené restauraci na váslaváku! Ten obličej co hodila na mě tak ten byl za milion,Negative,0.5768652,1,0.19
+969,jsem zvědav kolik litrů se prodá,Positive,0.07112649,0,0.19
+970,na prvni pohled to tak fakt nevypada... :DDD,Negative,0.6569154,1,0.2
+971,Lucinka by ráda do Třeboně do mého rodného městečka :-) hm,Positive,0.040485896,0,0.2
+972,"Doufám, že ne jen na chvilku!!!Díky",Positive,0.06357344,0,0.2
+973,Nejlepší čokoláda co znám:-),Positive,0.040678468,0,0.2
+974,Tak todle je vážně pecka :-)))),Positive,0.045024984,0,0.2
+975,"Janino: ne, ale koukám, že to je jediný co naučili tebe xD",Negative,0.63390934,1,0.21
+976,"Jéééé, to chci naučit naší fretku!!! :-P",Positive,0.040603895,0,0.21
+977,"O2 Se radči nevyjádří radči mlčí neví co odpovědět(i když si myslím,že lidi co nám odpovídají na dotazy s tím nic moc společnýho nemají)",Negative,0.6585303,1,0.22
+978,já jim jen hranolky a nugetky :D,Neutral,0.24147323,0,0.22
+979,Na Pankráci po něm šlo asi 30 lidí a mapa fungovala bez problémů. Díky TM za akci a můžete častěji i u jiných značek. Rád si zaběhám :D,Neutral,0.3767351,0,0.22
+980,"Já už si to pamatuju,hůů. :D Asi po třech směnách,ale jo. :D",Neutral,0.48353273,0,0.22
+981,dáte dneska zase upozornění že se blíží čas zveřejnění a nebo to se plesknete jako v pátek bez upozornění????? děkuji,Negative,0.5863567,1,0.22
+982,"Ha ha, rozhledna je po novu za penize a i parkovne je ted na 200%...",Negative,0.5803253,1,0.23
+983,tam musí být hodně teplo,Neutral,0.39237276,0,0.22
+984,"Dobře,díky. M.",Positive,0.041751347,0,0.22
+985,"Kičinka je šikulka a to maličké je nádherné. Vítej na světě, prcku :-)",Positive,0.04182195,0,0.21
+986,fňuk já chci červeneeejj :(,Negative,0.64285296,1,0.21
+987,"Kdyby v tom nebylo hovězí, tak bych to zkusila...",Negative,0.5068877,0,0.21
+988,"doživotní záruka na reoperaci je na ..., když už pak nebudete mít pro další operaci dost tlustou rohovku",Negative,0.54644924,0,0.21
+989,Nebyla by nějaká sleva třeba do Aquapalace v Praze? :),Neutral,0.40289634,0,0.21
+990,"Na to uz jsem taky narazil, ale bohuzel.:) Neni mozne, ze zamestnavatel neumoznuje placeni online kartou?",Negative,0.5257121,0,0.21
+991,"Kačko Krejčová, opravdu si myslíte, že se toto dá srovnávat? Já myslím, že mortalita mláďat mluví za vše.",Negative,0.61951727,1,0.21
+992,"Je úžasný. Kdyby ho chtěl někdo darovat, hlásím se jako první zájemce :-D",Positive,0.04121158,0,0.2
+993,"Hlavně pokud je to kuřecí čerstvý, tak to JE kvalitní kuřecí.",Neutral,0.24463814,0,0.2
+994,staci si to dvakrat precist a da se z toho udelat srozumitelna rec... :-)),Neutral,0.20674384,0,0.2
+995,"Denny,krásně fotíš:))",Positive,0.04055541,0,0.2
+996,no a zamestnanci si to vychutnavaji jak na servise tak na kuchyni jo kuponky to jedna velka mnamka!,Positive,0.058726743,0,0.2
+997,měla jsem ji 2x a opravdu krásně voní,Positive,0.042661782,0,0.2
+998,"Dobry den, negativni prispevky misto reakce mazete?",Neutral,0.3723015,0,0.2
+999,no k Evženovi by měl přibýt Hugo a Bonifác ;),Positive,0.06540652,0,0.2
+1000,"To je bezvadný...Mojinka našla v Biki novou tetu:-o)))Přátelství je krásné....tak holky, ať vydří a je na pořád:-o)))",Positive,0.041255925,0,0.2
